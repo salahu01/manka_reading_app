@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:manka_reading/pages/main_page.dart';
+import 'package:manka_reading/main_page.dart';
 
 void main() {
   runApp(const MyApp());
